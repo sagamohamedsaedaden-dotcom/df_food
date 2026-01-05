@@ -1,6 +1,6 @@
 ## Overview
 
-This project explores the performance of the Saudi Arabia national football team, with a special focus on international matches from 2000 to 2025. It was developed to gain deeper insights into team trends and to better understand factors influencing success.
+This project explores the performance of Saudi Arabia national football match results, with a special focus on international matches from 2000 to 2025. It was developed to gain deeper insights into team trends and to better understand factors influencing success.
 
 ## Data Source
 
@@ -15,7 +15,7 @@ The analysis uses the publicly available "International Football Results from 18
 
 ## Tools Used
 
-In exploring the performance of the Saudi Arabia national football team in-depth analysis, I relied on a robust set of tools:
+In exploring the performance of Saudi Arabia’s national football team through in-depth analysis, I relied on a robust set of tools:
 
 - **Python**: Served as the core engine for processing data and uncovering key patterns.
   I incorporated these essential Python libraries:
