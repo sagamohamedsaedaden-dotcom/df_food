@@ -24,7 +24,6 @@ In exploring the performance of Saudi Arabia’s national football team through 
 
 - **Python**: Served as the core engine for processing data and uncovering key patterns.
   I incorporated these essential Python libraries:
-
   - **Pandas**: Enabled efficient data manipulation and exploration.
   - **Matplotlib**: Powered the creation of foundational data visualizations.
   - **Seaborn**: Elevated my charts with more sophisticated and polished graphics.
@@ -79,7 +78,7 @@ View my notebook with detailed steps here:[football](football.ipynb)
 
 ## Results
 
-![tournaments](images/Tournament.png)
+!['Most Goals by Tournament (2000–2025) in KSA'](images/Tournament.png)
 
 ## Insights
 
